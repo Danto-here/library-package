@@ -7,7 +7,7 @@ This is a simple package that stores the title of the book and name of the autho
 
 ```
 
-pip install personal-library
+pip install personal-book-storage
 
 ```
 
