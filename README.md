@@ -9,7 +9,7 @@ Download the file from this repository and open your project and type the follow
 
 ```bash
 
-pip install .
+pip install personal_book_storage
 
 ```
 
