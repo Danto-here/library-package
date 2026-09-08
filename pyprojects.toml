@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "personal-book-storage"
+version = "0.1.0"
+description = "A short description of my modern Python project"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+authors = [
+    {name = "dantohere"}
+]
+
+[tool.setuptools.packages.find]
+where = ["personal-book-storage"]  # If your python code is kept inside a 'src/' directory
