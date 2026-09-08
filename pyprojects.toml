@@ -14,4 +14,4 @@ authors = [
 ]
 
 [tool.setuptools.packages.find]
-where = ["personal-book-storage"]  # If your python code is kept inside a 'src/' directory
+where = ["personal_book_storage"]
